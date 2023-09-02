@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+cmake-build-debug
+.idea
+.exe
+.xml
+.iml
+main.cpp
+CMakeLists.txt
+vsc.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Programming-with-C-.iml
+.idea/vcs.xml
+*.xml
